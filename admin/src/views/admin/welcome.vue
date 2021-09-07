@@ -6,7 +6,9 @@
 
 <script>
 export default {
-  name: "welcome"
+  name: "welcome",
+  mounted: function () {
+  }
 }
 </script>
 
